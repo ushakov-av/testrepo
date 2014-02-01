@@ -6,7 +6,7 @@ package ru.mipt.test;
 public class App {
     
     /**
-     * main.
+     * main master change.
      */
 
     /**
