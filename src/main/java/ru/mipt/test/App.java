@@ -10,7 +10,7 @@ public class App {
      */
 
     /**
-     * Start point.
+     * Start point. Master.
      *
      * @param args
      */
@@ -18,5 +18,6 @@ public class App {
 
         System.out.println("Hello World!");
         System.out.println("wow");
+        System.out.println("Master");
     }
 }
