@@ -20,5 +20,11 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("wow");
         System.out.println("Master");
+
+        sayBye();
+    }
+
+    public static void sayBye() {
+        System.out.println("Bye");
     }
 }
