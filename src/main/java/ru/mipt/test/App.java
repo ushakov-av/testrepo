@@ -22,13 +22,14 @@ public class App {
         System.out.println("Master");
 
         sayBye();
+        sayHello();
     }
 
     public static void sayBye() {
         System.out.println("Bye");
     }
 
-    public void sayHello() {
-        System.out.println("Hello");
+    public static void sayHello() {
+        System.out.println("Hello !");
     }
 }
