@@ -4,13 +4,9 @@ package ru.mipt.test;
  * Hello world!
  */
 public class App {
-    
-    /**
-     * main. experimental
-     */
+
 
     /**
-     * Start point. Master.
      * Start point. Master-experimental
      *
      * @param args
@@ -20,7 +16,7 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("wow");
         System.out.println("Master");
-
+        System.out.println("Hi from Github");
         sayBye();
         sayHello();
     }
